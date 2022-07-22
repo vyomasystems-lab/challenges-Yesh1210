@@ -82,3 +82,9 @@ always@(*)
 ```
 
 ![image](https://user-images.githubusercontent.com/74342939/180392449-33998425-a588-40c2-b121-41b571813267.png)
+
+The updated design is checked in as mux_fixed.v
+
+## Verification Strategy
+
+I created a variety of testcases for various inputs and select lines. It will be simple to debug into it by creating various scenarios.
