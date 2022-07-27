@@ -102,3 +102,6 @@ endmodule
 
 Test is simulated after inserting bugs into the design:
 ![image](https://user-images.githubusercontent.com/74342939/181241992-8bc6970e-a85a-4d93-8d04-72fe6d05f6dc.png)
+
+## Verification Strategy
+I developed different testcases for alu design before and after inserting bugs. By developing different testcases it is easy to debug the bugs.
