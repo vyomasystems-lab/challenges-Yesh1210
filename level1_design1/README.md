@@ -16,7 +16,6 @@ dut.sel.value = 1
 
 The assert statement is used for comparing the adder's outut to the expected value.
 
-The following error is seen:
 ```
 assert dut.out.value == A, "Test1 failed with: sel={A} , expected_out={B} , DUT_OUT={C}".format(A=dut.sel.value, B=dut.inp13.value, C=dut.out.value)
 ```
